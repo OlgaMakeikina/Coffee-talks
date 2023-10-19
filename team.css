@@ -1,0 +1,96 @@
+body {
+    background-color: #F9F6F2;
+    margin: 0;
+}
+.name {
+color: rgba(145, 91, 74, 1);
+font-size: 40px;
+text-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+font-family: 'Inter', sans-serif;
+}
+.talks {
+color: #38470B;
+}
+nav {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+.items {
+    text-decoration: none;
+    color: #38470B;
+    font-size: 24px;
+    text-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    font-family: 'Inter', sans-serif;
+}
+.logo {
+    display: flex;
+    margin-right: auto;
+}
+.headerTeam {
+    display: flex;
+    justify-content: center;
+    color: #38470B;
+    font-size: 28px;
+    font-family: 'Inter', sans-serif;
+}
+.ourTeam {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.person {
+    margin-left: 40px;
+    background-color: #A0855B;
+}
+.nameWorker {
+    background-color: #A0855B;
+    display: flex;
+    flex-direction: column;
+    }
+.staff {
+    align-self: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+}
+.profession {
+    align-self: center;
+    color:#38470B;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+.network {
+    align-self: center;
+}
+.icon {
+    margin: 5px;
+}
+.foot {
+    color: #38470B;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    margin-top: 100px;
+}
+.cont {
+    font-size: 18px;
+    font-weight: 100;
+    font-family: 'Inter', sans-serif;
+}
+.text {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
